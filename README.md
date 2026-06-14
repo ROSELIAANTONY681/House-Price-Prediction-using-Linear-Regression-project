@@ -19,8 +19,14 @@ Visualization of regression line and data points
 
 Use Case:
 Predict the estimated price of a house based on its area in square feet.
+
+
 Dataset Plotted :
+
 <img width="611" height="477" alt="image" src="https://github.com/user-attachments/assets/ea966770-918d-4bd8-b414-1702c8ff28a9" />
 
+
+
 Linear Regression Model Fit :
+
 <img width="615" height="482" alt="image" src="https://github.com/user-attachments/assets/5274f1fa-a355-48c1-9fba-ec9d7e80f15a" />
